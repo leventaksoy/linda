@@ -1,2 +1,1 @@
-# linda
-Logic Locking with Lightweight Cryptography
+This repository includes a compound IC protection strategy using a lightweight cryptography algorithm and a logic locking technique against overproduction and piracy. Its details are given in its README file.
